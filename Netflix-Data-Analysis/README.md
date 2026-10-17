@@ -93,9 +93,6 @@ jupyter notebook notebooks/Netflix_EDA.ipynb
 
 Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Jupyter Notebook · Git & GitHub
 
-## 🎤 Interview Prep
-
-See [`INTERVIEW_PREP.md`](INTERVIEW_PREP.md) for answers to common questions about this project (why this project, challenges faced, how missing values were handled, choice of visualizations, and key business insights).
 
 ## 📄 License
 
